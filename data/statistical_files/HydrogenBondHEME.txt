@@ -1,0 +1,226 @@
+********************************************************************************
+*  Package...:                       VADAR (c)
+*  Version...:                 1.5, December 2007
+*  Location..:                 University of Alberta
+*                          Protein Engineering Network of
+*                              Centres of Excellence
+*  Input.....:                     /var/www/html/vadar/public_html/temp/1733599833/1733599833.txt_m0
+*  Date......:                 Sat Dec  7 19:30:34 2024
+********************************************************************************
+
+
+
+
+
+                     *************************************
+                     *   MAINCHAIN HYDROGEN BOND PANEL   *
+                     *************************************
+
+
+
+HBOND          HBOND          HBOND        HBOND        HBOND     ACCPT   DONOR
+ACCPT(CO)      DONOR(NH)      DIST.        ANGLE        ENERGY    STRUC   STRUC
+--------------------------------------------------------------------------------
+SER 3A         GLU 6A          2.56         143.32         0.00       C       H
+SER 3A         TRP 7A          2.00         166.59        -2.24       C       H
+GLU 4A         TRP 7A          2.57         149.48         0.00       H       H
+GLU 4A         GLN 8A          2.09         168.08        -2.00       H       H
+GLY 5A         GLN 8A          2.67         143.84         0.00       H       H
+GLY 5A         LEU 9A          2.26         159.96        -1.80       H       H
+GLU 6A         VAL 10A         2.23         160.07        -1.78       H       H
+TRP 7A         LEU 11A         1.93         162.29        -2.70       H       H
+GLN 8A         HIS 12A         1.98         165.42        -2.34       H       H
+LEU 9A         VAL 13A         2.39         145.77        -1.57       H       H
+VAL 10A        TRP 14A         2.00         167.85        -2.31       H       H
+LEU 11A        ALA 15A         2.10         155.36        -2.08       H       H
+HIS 12A        LYS 16A         2.75         156.07        -0.88       H       H
+VAL 13A        VAL 17A         2.18         176.25        -1.85       H       H
+VAL 13A        LYS 16A         2.18         147.81        -0.71       H       H
+TRP 14A        GLU 18A         2.02         162.41        -2.22       H       H
+LYS 16A        ALA 19A         2.18         124.41        -1.39       H       H
+VAL 17A        ASP 20A         1.99         137.63        -2.12       H       C
+ASP 20A        HIS 24A         2.12         167.96        -2.14       C       H
+VAL 21A        HIS 24A         2.74         153.97         0.00       H       H
+VAL 21A        GLY 25A         1.93         169.69        -2.59       H       H
+ALA 22A        GLY 25A         2.80         148.40         0.00       H       H
+ALA 22A        GLN 26A         2.04         159.19        -2.32       H       H
+GLY 23A        ASP 27A         2.15         154.73        -2.07       H       H
+GLY 23A        GLN 26A         2.88         143.60         0.00       H       H
+HIS 24A        ILE 28A         1.99         165.54        -2.36       H       H
+GLY 25A        LEU 29A         2.01         158.70        -2.50       H       H
+GLN 26A        ILE 30A         1.98         163.53        -2.47       H       H
+ASP 27A        ARG 31A         1.95         160.41        -2.47       H       H
+ILE 28A        LEU 32A         2.02         169.01        -2.31       H       H
+LEU 29A        PHE 33A         1.94         167.03        -2.64       H       H
+ILE 30A        LYS 34A         2.03         162.06        -2.23       H       H
+ARG 31A        SER 35A         1.89         164.08        -2.67       H       H
+LEU 32A        HIS 36A         2.11         156.30        -1.93       H       C
+HIS 36A        THR 39A         1.80         151.29        -2.94       C       H
+PRO 37A        THR 39A         3.09         136.68         0.00       H       H
+PRO 37A        LEU 40A         2.37         140.62        -0.69       H       H
+GLU 38A        GLU 41A         2.69         136.06        -0.03       H       H
+THR 39A        LYS 42A         2.20         136.88        -1.29       H       H
+LEU 40A        PHE 43A         1.96         140.37        -2.14       H       C
+GLU 41A        PHE 43A         3.01         123.51         0.00       H       C
+PHE 43A        LYS 47A         2.11         147.23        -1.84       C       C
+PHE 46A        LEU 49A         2.04         136.18        -2.20       C       C
+THR 51A        GLU 54A         2.70         144.32         0.00       C       H
+THR 51A        MET 55A         1.99         163.06        -2.42       C       H
+GLU 52A        MET 55A         2.72         151.68         0.00       H       H
+GLU 52A        LYS 56A         1.93         167.97        -2.52       H       H
+ALA 53A        LYS 56A         2.76         147.65         0.00       H       H
+ALA 53A        ALA 57A         2.22         160.85        -1.53       H       H
+GLU 54A        ALA 57A         2.43         141.39        -0.37       H       H
+MET 55A        SER 58A         2.36         124.76        -0.84       H       C
+SER 58A        LYS 62A         2.31         157.08        -1.59       C       H
+GLU 59A        LYS 62A         2.68         146.52         0.00       H       H
+GLU 59A        LYS 63A         2.06         164.14        -2.01       H       H
+ASP 60A        LYS 63A         2.64         140.62         0.00       H       H
+ASP 60A        HIS 64A         2.12         151.98        -1.97       H       H
+LEU 61A        GLY 65A         1.91         165.52        -2.63       H       H
+LEU 61A        HIS 64A         2.60         143.39         0.00       H       H
+LYS 62A        VAL 66A         2.22         159.90        -1.85       H       H
+LYS 63A        THR 67A         2.25         162.72        -1.63       H       H
+HIS 64A        VAL 68A         2.00         165.90        -2.48       H       H
+GLY 65A        LEU 69A         1.99         163.94        -2.58       H       H
+VAL 66A        THR 70A         1.97         164.07        -2.39       H       H
+THR 67A        ALA 71A         2.21         150.79        -1.93       H       H
+VAL 68A        LEU 72A         2.06         166.73        -2.34       H       H
+LEU 69A        GLY 73A         1.88         159.56        -2.64       H       H
+THR 70A        ALA 74A         2.20         164.56        -1.82       H       H
+ALA 71A        ILE 75A         2.24         164.01        -1.69       H       H
+LEU 72A        LEU 76A         2.00         166.50        -2.58       H       H
+GLY 73A        LYS 77A         2.14         153.98        -1.99       H       H
+ILE 75A        LYS 78A         1.99         137.16        -1.80       H       H
+LEU 76A        LYS 79A         2.08         126.79        -1.63       H       C
+LYS 78A        HIS 81A         2.03         114.63        -2.16       H       C
+HIS 82A        GLU 85A         2.35         153.02        -0.79       C       H
+HIS 82A        LEU 86A         1.99         171.44        -2.54       C       H
+GLU 83A        LEU 86A         2.95         143.13         0.00       H       H
+GLU 83A        LYS 87A         2.32         161.28        -1.61       H       H
+GLU 85A        LEU 89A         3.09         155.74        -0.75       H       H
+LEU 86A        ALA 90A         1.89         164.12        -2.78       H       H
+LYS 87A        GLN 91A         2.16         163.24        -1.95       H       H
+PRO 88A        GLN 91A         3.11         152.25         0.00       H       H
+PRO 88A        SER 92A         2.01         154.27        -2.38       H       H
+LEU 89A        HIS 93A         2.00         159.76        -2.29       H       H
+ALA 90A        ALA 94A         1.83         156.05        -2.94       H       H
+GLN 91A        THR 95A         2.07         158.66        -2.21       H       H
+SER 92A        HIS 97A         1.77         169.16        -3.25       H       C
+SER 92A        LYS 96A         1.90         153.33        -2.16       H       C
+HIS 93A        ILE 99A         1.82         167.51        -3.00       H       C
+PRO 100A       TYR 103A        2.04         148.47        -1.45       C       H
+ILE 101A       LEU 104A        2.25         147.30        -0.48       H       H
+LYS 102A       GLU 105A        2.41         140.49         0.00       H       H
+LYS 102A       PHE 106A        2.07         158.59        -2.02       H       H
+TYR 103A       ILE 107A        2.10         151.27        -2.17       H       H
+LEU 104A       SER 108A        2.11         159.83        -1.87       H       H
+GLU 105A       GLU 109A        2.09         162.93        -2.13       H       H
+PHE 106A       ALA 110A        2.19         166.39        -1.73       H       H
+ILE 107A       ILE 111A        1.89         163.38        -2.76       H       H
+SER 108A       ILE 112A        2.14         160.15        -2.12       H       H
+GLU 109A       HIS 113A        1.97         157.81        -2.48       H       H
+ALA 110A       VAL 114A        2.06         166.04        -2.28       H       H
+ILE 111A       LEU 115A        2.00         168.69        -2.43       H       H
+ILE 112A       HIS 116A        2.11         165.07        -1.97       H       H
+HIS 113A       SER 117A        2.06         162.82        -2.16       H       H
+VAL 114A       ARG 118A        1.94         158.57        -2.62       H       H
+LEU 115A       HIS 119A        2.21         153.72        -1.61       H       C
+HIS 119A       ASP 122A        2.16         144.71        -1.48       C       C
+PRO 120A       ASP 122A        3.11         140.77         0.00       C       C
+PRO 120A       PHE 123A        2.02         111.07        -1.67       C       C
+GLY 124A       ALA 127A        2.54         148.36        -0.31       H       H
+GLY 124A       GLN 128A        1.87         171.37        -2.79       H       H
+ALA 125A       GLN 128A        2.92         150.15         0.00       H       H
+ALA 125A       GLY 129A        1.90         156.40        -2.52       H       H
+ASP 126A       GLY 129A        2.74         141.29         0.00       H       H
+ASP 126A       ALA 130A        2.13         163.57        -2.05       H       H
+ALA 127A       MET 131A        1.99         161.45        -2.53       H       H
+GLN 128A       ASN 132A        2.02         157.42        -2.31       H       H
+GLY 129A       LYS 133A        2.03         160.35        -2.35       H       H
+ALA 130A       ALA 134A        2.07         170.14        -1.89       H       H
+MET 131A       LEU 135A        1.98         167.28        -2.48       H       H
+ASN 132A       GLU 136A        2.05         167.65        -2.03       H       H
+LYS 133A       LEU 137A        2.06         152.47        -2.02       H       H
+ALA 134A       PHE 138A        2.16         159.13        -1.94       H       H
+LEU 135A       ARG 139A        2.05         149.07        -2.23       H       H
+GLU 136A       LYS 140A        1.91         159.19        -2.55       H       H
+LEU 137A       ASP 141A        1.99         162.10        -2.42       H       H
+PHE 138A       ILE 142A        2.11         177.86        -1.96       H       H
+ARG 139A       ALA 143A        1.85         162.35        -2.64       H       H
+LYS 140A       ALA 144A        2.27         152.78        -1.70       H       H
+ASP 141A       LYS 145A        2.47         153.57        -1.38       H       H
+ILE 142A       TYR 146A        2.09         174.47        -2.02       H       H
+ALA 143A       LYS 147A        1.93         166.00        -2.60       H       H
+ALA 144A       GLU 148A        2.16         150.53        -2.06       H       H
+LYS 145A       LEU 149A        2.17         151.34        -1.96       H       H
+TYR 146A       TYR 151A        2.02         137.41        -2.37       H       C
+LYS 147A       GLY 150A        2.07         131.02        -1.26       H       C
+
+
+
+                  ***************************************
+                  *    SIDECHAIN HYDROGEN BOND PANEL    *
+                  ***************************************
+
+
+
+SIDE                     SIDE                     DIST.   ACCEPTOR   DONOR
+DONOR                    ACCEPTOR                 DIST.     STRUC    STRUC
+--------------------------------------------------------------------------------
+SER 3A      N  --H     GLU 6A     OE2--CD         2.91        C        H
+GLY 5A      N  --H     SER 3A     OG--CB          3.45        H        C
+HIS 12A     NE2--CG    ASP 122A   OD2--CG         2.92        H        C
+TRP 14A     NE1--CG    GLU 18A    OE1--CD         3.41        H        H
+GLY 23A     N  --H     ASP 20A    OD2--CG         3.01        H        C
+HIS 24A     NE2--CG    HIS 119A   NE2--CG         2.78        H        C
+HIS 24A     ND1--CG    ASP 20A    O--C            2.66        H        C
+GLN 26A     NE2--CD    LYS 56A    O--C            3.10        H        H
+ARG 31A     NH2--CZ    HIS 113A   ND1--CG         3.38        H        H
+LYS 34A     NZ--CE     GLU 52A    OE2--CD         2.87        H        H
+SER 35A     OG--CB     ARG 31A    O--C            3.05        H        H
+PRO 37A     N  --H     GLU 38A    OE2--CD         3.23        H        H
+THR 39A     OG1--CB    HIS 36A    O--C            2.69        H        C
+LEU 40A     N  --H     THR 39A    OG1--CB         3.14        H        H
+LYS 42A     NZ--CE     LYS 98A    O--C            2.70        H        C
+ARG 45A     NE--CZ     ASP 60A    OD1--CG         2.82        C        H
+ARG 45A     NH2--CZ    ASP 60A    OD2--CG         3.11        C        H
+LYS 47A     NZ--CE     ASP 44A    OD1--CG         2.66        C        C
+LYS 50A     N  --H     GLU 54A    OE2--CD         2.77        C        H
+THR 51A     N  --H     GLU 54A    OE2--CD         3.22        C        H
+GLU 54A     N  --H     THR 51A    OG1--CB         3.05        H        C
+LYS 56A     NZ--CE     GLU 52A    OE1--CD         2.78        H        H
+LEU 61A     N  --H     SER 58A    OG--CB          3.16        H        C
+THR 67A     OG1--CB    LYS 63A    O--C            3.48        H        H
+THR 70A     OG1--CB    VAL 66A    O--C            2.78        H        H
+LYS 77A     NZ--CE     GLU 18A    OE1--CD         2.85        H        H
+LYS 77A     NZ--CE     GLU 18A    OE2--CD         3.33        H        H
+LYS 78A     NZ--CE     GLU 85A    OE2--CD         2.74        H        H
+LYS 79A     NZ--CE     GLU 4A     OE2--CD         2.53        C        H
+HIS 81A     ND1--CG    LYS 78A    O--C            3.45        C        H
+HIS 82A     NE2--CG    ASP 141A   OD2--CG         2.64        C        H
+ALA 84A     N  --H     GLU 85A    OE1--CD         3.44        H        H
+GLU 85A     OE1--CD    HIS 82A    O--C            3.03        H        C
+GLN 91A     NE2--CD    LYS 87A    O--C            3.26        H        H
+SER 92A     OG--CB     HIS 93A    ND1--CG         2.93        H        H
+HIS 93A     ND1--CG    SER 92A    OG--CB          2.93        H        H
+THR 95A     OG1--CB    GLN 91A    O--C            2.95        H        H
+LYS 96A     N  --H     THR 95A    OG1--CB         3.15        C        H
+LYS 102A    NZ--CE     GLU 105A   OE2--CD         2.86        H        H
+SER 108A    OG--CB     LEU 104A   O--C            2.82        H        H
+SER 117A    OG--CB     HIS 113A   O--C            3.15        H        H
+ARG 118A    NH1--CZ    ASP 27A    OD2--CG         3.01        H        H
+ARG 118A    NH2--CZ    ASP 20A    OD1--CG         2.82        H        C
+HIS 119A    NE2--CG    HIS 24A    NE2--CG         2.78        C        H
+ASP 122A    OD2--CG    HIS 12A    NE2--CG         2.92        C        H
+ALA 127A    N  --H     ASP 126A   OD2--CG         2.82        H        H
+GLN 128A    NE2--CD    PHE 123A   O--C            2.98        H        C
+GLN 128A    NE2--CD    GLY 124A   O--C            3.41        H        H
+ASN 132A    ND2--CG    GLU 136A   OE1--CD         3.49        H        H
+ASN 132A    ND2--CG    GLU 136A   OE2--CD         3.47        H        H
+LYS 133A    NZ--CE     GLU 6A     OE1--CD         3.12        H        H
+LYS 133A    NZ--CE     GLU 6A     OE2--CD         3.01        H        H
+ARG 139A    NH1--CZ    SER 108A   OG--CB          3.13        H        H
+ASP 141A    OD2--CG    HIS 82A    NE2--CG         2.64        H        C
+LYS 145A    NZ--CE     ASP 141A   O--C            2.71        H        H
+TYR 146A    OH--CZ     ILE 99A    O--C            2.63        H        C
